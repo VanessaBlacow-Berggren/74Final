@@ -18,14 +18,14 @@ h1 {
 }
 
 Body {
-  background-image: url("../images/catpaw.png");
+  background-image: url("images/catpaw.png");
   background-size: auto;
   background-repeat: repeat;
 }
 
 .box {
   background-color: #232139;
-  background-image: url("../images/catpawbox.png");
+  background-image: url("images/catpawbox.png");
   width: 600px;
   border: 5px solid black;
   padding: 25px;
