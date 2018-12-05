@@ -18,7 +18,7 @@ h1 {
 }
 
 Body {
-  background-image: url("images/catpaw.jpg");
+  background-image: none;
   background-size: auto;
   background-repeat: repeat;
 }
