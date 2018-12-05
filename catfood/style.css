@@ -1,0 +1,25 @@
+body {
+  background-image: url("../images/grassbackground.jpg");
+  justify-content:space-between;
+  display: flex;
+  margin: 0;
+  padding-right: 248px;
+}
+canvas {
+  display: block;
+}
+
+h4 {
+  margin: 10px;
+  text-decoration: underline;
+}
+
+a {
+  color: #4B0082;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4B0082;
+  text-decoration: none;
+}

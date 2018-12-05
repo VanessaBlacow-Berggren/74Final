@@ -1,0 +1,26 @@
+body {
+  background-color: #727272;
+  justify-content:space-between;
+  display: flex;
+  margin: 0;
+  padding-right: 348px;
+}
+
+canvas {
+  display: block;
+}
+
+h4 {
+  margin: 10px;
+  text-decoration: underline;
+}
+
+a {
+  color: #4B0082;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4B0082;
+  text-decoration: none;
+}
