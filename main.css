@@ -22,7 +22,6 @@ Body {
   background-size: auto;
   background-repeat: repeat;
 }
-/*note*/
 
 .box {
   background-color: #232139;
@@ -35,7 +34,7 @@ Body {
 
 .box2 {
   background-color: #232139;
-  background-image: url("../images/catpawbox.jpg");
+  background-image: url("images/catpawbox.jpg");
   width: 600px;
   height: auto;
   border: 5px solid black;
